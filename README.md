@@ -14,6 +14,6 @@ This program does the following:
 	Relocate the TIFFs into appropriate folders.
 
 ## Used modules 
-Glob, for getting filtered paths to list.
+Glob, for getting filtered paths to list.<br />
 OS, for getting path names.
  
