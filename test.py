@@ -4,7 +4,7 @@ import os
 print('All files in the documents list')
 
 particleFiles = []
-for prtPath in glob.glob('/Users/alexaj/Documents/PRT*.tiff'):
+for prtPath in glob.glob('/Users/AlexaJ/Downloads/PRT*.tiff'):
   # print prtPath
   filename =  os.path.basename(prtPath)
   print(filename)
@@ -12,7 +12,7 @@ for prtPath in glob.glob('/Users/alexaj/Documents/PRT*.tiff'):
   
 
 lessonFiles = []
-for lsnPath in glob.glob('/Users/alexaj/Documents/*B*.tiff'):
+for lsnPath in glob.glob('/Users/AlexaJ/Downloads/*B*.tiff'):
   # print lsnPath
   filename = os.path.basename(lsnPath)
   print(filename)
