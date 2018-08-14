@@ -6,7 +6,7 @@ This script was written in response to the tedious clicking I had to do when it 
 
 This program does the following:
 From any new downloads within the download file that are either 
-	Lessons:  /*/_B/*/
+	Lessons:  _B 
 	Particles: PRT
 	
 	Convert them from PDF to TIFF
