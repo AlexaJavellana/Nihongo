@@ -9,7 +9,8 @@ This program does the following:
 	From any new downloads within the download file that are either...
 	Lessons:  _B 
 	Particles: PRT
-	
+
+        (Below on MasterNihongo.py only)     	
 	Convert them from PDF to TIFF
 	Relocate the TIFFs into appropriate folders.
 
